@@ -1,0 +1,23 @@
+{
+  "name": "react-semanticui",
+  "version": "0.0.1",
+  "description": "react wrapper for semantic ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chaconnewu/react-semanticui.git"
+  },
+  "keywords": [
+    "react",
+    "semantic-ui"
+  ],
+  "author": "Yu Wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaconnewu/react-semanticui/issues"
+  },
+  "homepage": "https://github.com/chaconnewu/react-semanticui"
+}
